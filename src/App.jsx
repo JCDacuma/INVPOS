@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>Date created: 08/29/2025</p>
       </div>
       <p className="read-the-docs">
         I changed this
