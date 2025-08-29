@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>IMS + POS</h1>
+      <h1>IMSss + POSsss</h1>
       <div className="card">
         <button onClick={() => setAura((aura) => aura + 1)}>
           aura is {aura}
@@ -24,11 +24,9 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-        <p>Date created: 08/29/2025</p>
+        <p>Date Time created: 08/29/2025 6:47PM</p>
       </div>
-      <p className="read-the-docs">
-        I changed this
-      </p>
+      <p className="read-the-docs">I changed thisS</p>
     </>
   );
 }
